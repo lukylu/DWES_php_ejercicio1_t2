@@ -70,6 +70,5 @@ $animalesSonando = [
         <?php } ?>
     </ul>
 
-
 </body>
 </html>
